@@ -1,5 +1,7 @@
 # NLP_advanced_project
 
+> !! The outputs of the codes seem a bit long on github. If you want you can try to open it on google colab or your personal pc :)
+
 > In this advanced nlp project, I will use short English essays available at **"https://www.eslfast.com/supereasy/"**. 
 
 
