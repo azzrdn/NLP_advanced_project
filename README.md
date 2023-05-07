@@ -1,6 +1,6 @@
 # NLP_advanced_project
 
-> In this advanced nlp project, I will use short English essays available at "https://www.eslfast.com/supereasy/". 
+> In this advanced nlp project, I will use short English essays available at **"https://www.eslfast.com/supereasy/"**. 
 
 
 
@@ -18,6 +18,6 @@ The project basically:
 I use pandas, nltk , deep_translator and FDPF libraries in this project.
 
 
-I first upload 200 essays to my computer with web-scraping. Then I convert it into a dataframe in the form of title and content. This process is available in my jupyter notebook file named "web_scraping_for_200_english_stories.ipynb".
+I first upload 200 essays to my computer with web-scraping. Then I convert it into a dataframe in the form of title and content. This process is available in my jupyter notebook file named **"web_scraping_for_200_english_stories.ipynb"**.
 
-My next actions are clearly in the file named "Advaced_NLP_Project_200_english_stories.ipynb".
+My next actions are clearly in the file named **"Advaced_NLP_Project_200_english_stories.ipynb"**.
