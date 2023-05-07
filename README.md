@@ -18,6 +18,6 @@ The project basically:
 I use pandas, nltk , deep_translator and FDPF libraries in this project.
 
 
-I first upload 200 essays to my computer with web-scraping. Then I convert it into a dataframe in the form of title and content. This process is available in my jupyter notebook file named **"web_scraping_for_200_english_stories.ipynb"**.
+I first upload 200 essays to my computer with web-scraping. Then I convert it into a dataframe in the form of title and content. This process is available in my jupyter notebook file named _**"web_scraping_for_200_english_stories.ipynb"**_.
 
-My next actions are clearly in the file named **"Advaced_NLP_Project_200_english_stories.ipynb"**.
+My next actions are clearly in the file named _**"Advaced_NLP_Project_200_english_stories.ipynb"**_.
